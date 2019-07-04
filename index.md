@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenue à CPGroup, les titres-Services ... facile & économique!
 
-You can use the [editor on GitHub](https://github.com/gael-checksum/gael-checksum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CPGroup est agréée par l’Onem, et propose ses services d’aide à domicile dans le cadre des titres-services.
+Notre agence met à disposition des particuliers, des aides ménagères (H/F). 
+Une heure de travail équivaut à un titre-service d’une valeur de 9€. Ceux-ci après déduction fiscale ou crédit d’impôt, suivant la région de votre domicile, vous reviendrons à **7,65 €/heure pour la région bruxelloise**,
+**8,10 €/heure pour la région wallonne** et **6,30 €/heure pour la région flamande**.
+Si vous avez déjà une prestataire, nous pouvons également l’officialiser avec un contrat de travail (avec tous les avantages que cela implique). Contactez-nous en toute confidentialité à ce sujet. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
